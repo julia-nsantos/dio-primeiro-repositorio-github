@@ -1,4 +1,4 @@
-# 💻 Git (Command Line Interface)
+# 💻 Git (Comandos Git)
 
 <details>
 <summary>
